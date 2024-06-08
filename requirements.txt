@@ -2,4 +2,4 @@ streamlit
 pandas
 google-cloud-bigquery
 sqlalchemy
-cx_Oracle
+cx_Oracle==8.3.0
