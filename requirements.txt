@@ -1,0 +1,7 @@
+streamlit
+numpy
+joblib
+pandas
+openpyxl
+scikit-learn==0.24.0
+xgboost==1.6.0
